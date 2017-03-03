@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/01/20 11:31:52.327.dproj,D:\Users\emak\Documents\RAD Studio\Projects\Package1.dproj=D:\SOFTWARE\delphi\Component\aterbilang\Terbilang.dproj</Transaction>
+    <Transaction>2017/01/20 14:29:10.225.dproj,D:\SOFTWARE\delphi\Component\convertion\penomoran\Terbilang.dproj=D:\SOFTWARE\delphi\Component\convertion\penomoran\Penomoran.dproj</Transaction>
+    <Transaction>2017/01/20 15:15:55.409.dproj,D:\SOFTWARE\delphi\Component\convertion\penomoran\Penomoran.dproj=D:\SOFTWARE\delphi\Component\convertion\penomoran\NomerFormater.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
